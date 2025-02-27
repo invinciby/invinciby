@@ -4,6 +4,8 @@
 - 🌱 I'm currently studying at Xiamen University
 - 🔭 I'm currently interested in RLM and Agent building
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/VinciB?spm=1018.2226.3001.5343)
+- 📗 I will share more AI counseling on my WeChat OA [你好不吃虾] 👇
+
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/invinciby/count.svg) visitor,Thank You!
 
@@ -13,4 +15,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/invinciby/count.sv
 </div>
 
 
+<div align="left"> <img height="150px" src="https://github.com/user-attachments/assets/8ad343e5-afbc-477b-a36d-046c6657ff16" /> </div>
 
