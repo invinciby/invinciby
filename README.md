@@ -2,7 +2,7 @@
 
 
 - 🌱 I'm currently studying at Xiamen University
-- 🔭 I'm currently interested in inference LLM and Agent building
+- 🔭 I'm currently interested in RLM and Agent building
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/VinciB?spm=1018.2226.3001.5343)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/invinciby/count.svg) visitor,Thank You!
