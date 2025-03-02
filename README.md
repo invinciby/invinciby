@@ -1,6 +1,17 @@
 ## ✨ Welcome to my Github!👋 I'm Vinci!
 
 
+<p align="center">
+  	
+  <a >
+       <img alt="Status-building" src="https://img.shields.io/badge/Status-building-blue" />
+  	</a>
+  <a >
+       <img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" />
+  	</a>
+   
+</p>
+
 - 🌱 I'm currently studying at Xiamen University
 - 🔭 I'm currently interested in RLM and Agent building
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/VinciB?spm=1018.2226.3001.5343)
