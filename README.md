@@ -4,10 +4,10 @@
 <p align="center">
   	
   <a >
-       <img alt="Status-building" src="https://img.shields.io/badge/Status-building-blue" />
+       <img alt="Holle" src="https://img.shields.io/badge/Status-building-blue" />
   	</a>
   <a >
-       <img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" />
+       <img alt="I'm vinci" src="https://img.shields.io/badge/PRs-Welcome-red" />
   	</a>
    
 </p>
