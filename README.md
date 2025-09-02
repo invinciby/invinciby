@@ -1,30 +1,65 @@
-## ✨ Welcome to my Github!👋 I'm Vinci!
-
+<h1 align="center">✨ Welcome to my GitHub! 👋 I'm Vinci</h1>
 
 <p align="center">
-  	
-  <a >
-       <img alt="Holle" src="https://img.shields.io/badge/Holle_I'm vinci-blue" />
-  	</a>
-  <a >
-       <img alt="I'm vinci" src="https://img.shields.io/github/watchers/invinciby/invinciby" />
-  	</a>
-   
+  <!-- 🔹 研究方向徽章 -->
+  <img alt="Chemistry" src="https://img.shields.io/badge/AI%20for-Chemistry-8A2BE2?logo=atom&logoColor=white" />
+  <img alt="Agent" src="https://img.shields.io/badge/Agent-Building-FF6347?logo=apache-airflow&logoColor=white" />
+  <img alt="Tools" src="https://img.shields.io/badge/Tool-Augmentation-228B22?logo=flask&logoColor=white" />
 </p>
 
-- 🌱 I'm currently studying at Xiamen University
-- 🔭 I'm currently interested in RLM and Agent building
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/VinciB?spm=1018.2226.3001.5343)
-- 📗 I will share more AI counseling on my WeChat OA [你好不吃虾] 👇
+<p align="center">
+  <!-- 🔹 社交入口徽章 -->
+  <a href="https://blog.csdn.net/VinciB">
+    <img alt="CSDN" src="https://img.shields.io/badge/Blog-CSDN-orange?logo=blogger" />
+  </a>
+  <a href="https://invinciby.github.io/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:invinciby@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-green?logo=gmail" />
+  </a>
+</p>
 
 
 
 
-<div align="left" style="display: flex; gap: 20px; align-items: center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=invinciby&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invinciby&layout=compact&theme=tokyonight" />
+---
+
+### 👨‍🎓 About Me
+- 🌱 Currently studying at **Xiamen University**  
+- 🔭 Research interests: **Reasoning Language Models (RLM)**, **Agent Building**, and **Tool Augmentation**  
+- ⚗️ Domain focus: **Chemistry × AI Agents**  
+- 😄 Read more on my [CSDN Blog](https://blog.csdn.net/VinciB?spm=1018.2226.3001.5343)  
+- 📗 Sharing AI insights on my WeChat OA **「你好不吃虾」**
+
+---
+
+### 🧪 Research Interests
+- **AI for Chemistry** → LLMs for hypothesis generation, reaction planning, and material discovery  
+- **Agentic Systems** → Fast & slow reasoning agents for scientific problem-solving  
+- **Tool-augmented AI** → Integration of simulation tools, retrieval, and workflow automation  
+- **Benchmarking** → Evaluating AI agents in real-world chemical reasoning tasks  
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=invinciby&show_icons=true&hide_border=true&theme=radical" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invinciby&layout=compact&hide_border=true&theme=radical" />
 </div>
 
+---
 
-<div align="left"> <img height="150px" src="https://github.com/user-attachments/assets/8ad343e5-afbc-477b-a36d-046c6657ff16" /> </div>
+### 🚀 Featured Projects
+- 🧠 **[ChemAgent](#)** → An AI agent for hypothesis-driven reasoning in chemistry  
+- ⚡ **[ToolBench4Science](#)** → Tool-augmented agent workflows for computational chemistry  
+- 📊 **[Bench4Agents](#)** → Benchmarks for evaluating reasoning agents in scientific tasks  
 
+---
+
+### 🖼️ Personal Logo
+<div align="center">
+  <img height="150px" src="https://github.com/user-attachments/assets/8ad343e5-afbc-477b-a36d-046c6657ff16" />
+</div>
+
+---
