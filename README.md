@@ -26,7 +26,6 @@
 ---
 
 ### 👨‍🎓 About Me
-- 🌱 Currently studying at **Xiamen University**  
 - 🔭 Research interests: **Reasoning Language Models (RLM)**, **Agent Building**, and **Tool Augmentation**  
 - ⚗️ Domain focus: **Chemistry × AI Agents**  
 - 😄 Read more on my [CSDN Blog](https://blog.csdn.net/VinciB?spm=1018.2226.3001.5343)  
