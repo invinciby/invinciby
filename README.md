@@ -44,9 +44,24 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=invinciby&show_icons=true&hide_border=true&theme=radical" />
+
+  <!-- 🔹 常用语言 -->
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invinciby&layout=compact&hide_border=true&theme=radical" />
+
+  <!-- 🔹 连续打卡 -->
+
+  <img  height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=invinciby&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+  <!-- 🔹 奖杯墙 -->
+  <br>
+  <img  width="700px" src="https://github-profile-trophy.vercel.app/?username=invinciby&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="trophy" />
+
+  <!-- 🔹 活跃曲线图 -->
+  <br>
+  <img width="700px" src="https://github-readme-activity-graph.vercel.app/graph?username=invinciby&theme=tokyo-night&hide_border=true" alt="activity graph" />
+
 </div>
+
 
 ---
 
