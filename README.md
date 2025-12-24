@@ -52,9 +52,7 @@
   <img  height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=invinciby&theme=radical&hide_border=true" alt="GitHub Streak" />
 
   <!-- 🔹 奖杯墙 -->
-  <br>
-  <img  width="700px" src="https://github-profile-trophy.vercel.app/?username=invinciby&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="trophy" />
-
+ 
   <!-- 🔹 活跃曲线图 -->
   <br>
   <img width="700px" src="https://github-readme-activity-graph.vercel.app/graph?username=invinciby&theme=tokyo-night&hide_border=true" alt="activity graph" />
